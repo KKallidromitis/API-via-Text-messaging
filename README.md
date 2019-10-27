@@ -1,2 +1,2 @@
-# Automatic-Text-Messaging-with-Python
-The following script can be used to connect an email address with a phone via text. The phone can send commands via mms to the Gmail servers via email-to-text and based on the content the command is processed. The creation of the code, was for the start-up "Dialogue" in Cornell Tech. The script is able to inform all friends of the sender that he/she is available to talk for the next x minutes or whenever he/she goes offline.
+# API-via-Text-messaging
+The creation of the code, was for the start-up "Dialogue" in Cornell Tech. The following script can be used to connect an email address with a phone via text. The phone can send commands via mms to the Gmail servers via email-to-text and based on the content the command is processed. The script is able to inform all friends of the sender that he/she is available to talk for the next x minutes or if he/she goes offline.
